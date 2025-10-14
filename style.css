@@ -1,0 +1,9 @@
+html{
+    background-color: aqua;
+}
+body{
+    background-color: blue;
+    height: max-content;
+    max-width: max-content;
+   
+}
