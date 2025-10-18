@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+  <meta charset="UTF-8">
+  <meta name="author" content="wariz adebara"> 
+  <meta name="viewport" content="width=divice-width,initial-scale=0.1">
+        <title>HTML class</title>
+</head>
+<body>
+    <header>
+        <div class="header logo">
+           <h1>techcabal</h1> 
+        </div>
+        <nav>
+            <ul>
+              <li><a href="about.html">take me to about</a></li> 
+              <li><a href="Bio.html">take me to bio</a></li>
+            </ul>
+        </nav>
+        <div>
+            
+        </div>
+    </header>
+</body>
+</html>
